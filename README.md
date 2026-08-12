@@ -28,3 +28,8 @@ The project demonstrates core concepts in programming-language and interpreter d
 ## Illustration
 
 <img width="1520" height="937" alt="MinyLang interpreter illustration" src="https://github.com/user-attachments/assets/39d2c662-fe9e-4fa0-8c13-8142a1fbac12" />
+
+---
+
+<p align="center">Developed by <strong>Liane Heidemann</strong></p>
+
